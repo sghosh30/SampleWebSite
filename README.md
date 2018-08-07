@@ -1,11 +1,5 @@
 # SampleWebSite
-Repository for a sample web site
-My Readme
-test
-test 01
+This sample website template is taken from free distributable by OAK Technologies.
 
-subha
-sougata
-
-Direct from git hub
-From develop
+Uploading this as the first test point for the new website.
+I might play around with the template to test a few features in future.
