@@ -1,12 +1,15 @@
 # SampleWebSite
+<<<<<<< HEAD
 Repository for a sample web site
 My Readme
 
 test
 test 01
+=======
+>>>>>>> develop
 
-subha
-sougata
+I am from develop
 
-Direct from git hub
-From develop
+again develop
+
+Ready with v1.08
